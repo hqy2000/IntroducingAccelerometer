@@ -1,2 +1,2 @@
 # IntroducingAccelerometer
-My WWDC 2017 work.
+My WWDC 2017 scholarship work.
